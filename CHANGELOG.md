@@ -21,4 +21,4 @@ This is the first release of the Spring Buddy plugin. It includes the following 
 - All [JPA Buddy](https://jpa-buddy.com) features for JPA support
 - Dev Tools support
 
-...and more!
+...and [more](http:..spring-buddy.com)!
