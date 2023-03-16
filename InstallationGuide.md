@@ -6,7 +6,7 @@ To get an access to a plugin, you need to do set up EAP repository access in Int
   ![](/InstallGuide/1.Settings.png)
 * Click on **⚙** icon and select **Manage Plugin Repositories** menu
   ![](/InstallGuide/2.Repositories.png)
-* In the opened window, click on `+` icon and add new plugin repository: `https://plugins.jetbrains.com/plugins/list?channel=EAP`
+* In the opened window, click on `+` icon and add new plugin repository: <br/> `https://plugins.jetbrains.com/plugins/list?channel=EAP` <br/>
   ![](/InstallGuide/3.List.png)
 * Click OK
 
