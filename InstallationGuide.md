@@ -6,15 +6,14 @@ You can install Spring Buddy to *IntelliJ IDEA CE* or *Ultimate*. The minimum ve
 
 To get access to a plugin, you need to set up EAP repository access in IntelliJ IDEA.
 * Open IDE Settings(⌘, for Mac or Ctrl+Alt+S for Win) and select the **Plugins** section
-  ![](/InstallGuide/1.Settings.png)
-  <img src="/InstallGuide/1.Settings.png" width="300">
+  <img src="/InstallGuide/1.Settings.png" width="600">
 * Click on `⚙` icon and select the **Manage Plugin Repositories** menu
-  ![](/InstallGuide/2.Repositories.png)
+  <img src="/InstallGuide/2.Repositories.png" width="600">
 * In the opened window, click on `+` icon and add new plugin repository: `https://plugins.jetbrains.com/plugins/list?channel=EAP`
-  ![](/InstallGuide/3.List.png)
+  <img src="/InstallGuide/3.List.png" width="600">
 * Click OK
 
 * In the **Settings** window, select **Marketplace** tab and enter *Spring Buddy* in the search line.
-  ![](/InstallGuide/4.Plugin.png)
+  <img src="/InstallGuide/4.Plugin.png" width="600">
 * Click on the **Install** button for this plugin
 * Restart the IDE
