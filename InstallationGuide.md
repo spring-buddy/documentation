@@ -17,3 +17,8 @@ To get access to a plugin, you need to set up EAP repository access in IntelliJ 
   <img src="/InstallGuide/4.Plugin.png" width="600">
 * Click on the **Install** button for this plugin
 * Restart the IDE
+
+After restart, open the **Plugins** section again and select the **Installed** tab.
+Check that Spring Buddy plugin is installed and enabled.
+
+<img src="/InstallGuide/5.PluginInstalled.png" width="600">
