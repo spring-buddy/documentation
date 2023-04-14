@@ -1,5 +1,14 @@
 # Changelog
 
+## 2023.1.3 - 2023-04-14
+
+We've improved stability, fixed many bugs and resolved eight tickets for this release. The most notable ones are listed below.
+
+* Opening a huge multi-modal project no longer causes a cache error – SBU-1261
+* Creating a Spring Security configuration in a multi-module project no longer throws an IncorrectOperationException – SBU-1192
+* The "Already disposed" error when opening a module has been resolved – SBU-1258
+* The PluginException "Incorrect CachedValue" has been fixed – SBU-1274
+
 ## 2023.1.2 – 2023-03-30
 
 For this release, we've made significant improvements to enhance stability and eliminate numerous bugs and exceptions. We've successfully resolved more than 10 tickets, with the following being the most notable:
