@@ -1,5 +1,21 @@
 # Changelog
 
+## 2023.2.0 - 2023-05-31
+
+**This is the second major release of the Spring Buddy plugin. It includes the following features:**
+
+* Bean injection functionality now supports injection by qualifier bean collection autowiring
+* Kotlin is now supported as well
+* LDAP is now supported for Spring Security
+* MongoDB support has been added, including documents and repositories generation
+
+**Additionally, the following improvements and fixes have been made:**
+
+* Method delegation functionality was redesigned to work better
+* Spring Buddy now provides better support for multi-module projects
+* Various bugfixes have been made along with some performance improvements
+* Obsolete libraries have been excluded
+
 ## 2023.1.3 - 2023-04-14
 
 We've improved stability, fixed many bugs and resolved eight tickets for this release. The most notable ones are listed below.
